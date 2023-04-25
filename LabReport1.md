@@ -36,4 +36,6 @@ typing in your CSE15L username. You are going to type yes which will then procee
 
 2. You could write cd, cd ~, ls -lat, and ls -a just to name a few
 
-3. A useful tip you could use after your done with writing down some of the commands is CTRL + d which will close the remote server in the terminal
+3. cd and cd ~ don’t seem to do anything when you type it into the terminal but ls -lat and ls -a both seem to list out paths
+
+4. A useful tip you could use after your done with writing down some of the commands is CTRL + d which will close the remote server in the terminal
